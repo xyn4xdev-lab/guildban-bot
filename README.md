@@ -22,7 +22,7 @@ A powerful **Discord moderation bot** that synchronizes **bans and mutes across 
 
 ```bash
 git clone https://github.com/xyn4xdev-lab/guildban-bot.git
-cd global-guild-moderation-bot
+cd guildban-bot
 npm install
 ```
 
